@@ -1,4 +1,6 @@
 1. mkdir new-project
-2. git init
-3. git branch "development"
-4. git checkout development
+2. cd new-project
+3. git init
+4. git branch "development"
+5. git status
+6. git checkout development
