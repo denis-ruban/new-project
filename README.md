@@ -1,4 +1,4 @@
-1. mkdir new-project
-2. git init
-3. git branch "development"
-4. git checkout development
+1. mkdir new-project #створити папку проекту
+2. cd new-project #перейти в папку проекту
+3. git init #ініціалізувати новий публічний репозиторій
+4. git checkout -b "development" #створити та переключитися на гілку
